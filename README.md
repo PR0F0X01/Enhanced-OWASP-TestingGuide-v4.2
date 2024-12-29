@@ -33,7 +33,7 @@ The repository is organized based on OWASP Testing Guide categories. Click on an
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/C0NQR0R/OWASP-Testing-Guide-v4.2-Enhanced.git
+   git clone https://github.com/C0NQR0R/Enhanced-OWASP-TestingGuide-v4.2.git
    ```
 
 2. **Access Files Online**:
