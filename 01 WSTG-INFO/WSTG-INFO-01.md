@@ -18,6 +18,7 @@ Identify sensitive files or directories exposed to the public.
   - `.pdf`, `.docx`, `.xlsx`
   - `.bak`, `.sql`
   - `.env`, `.config`
+  - `.local`, `.yaml`
 
 ### 3. Leverage Search Engine Operators
 Use advanced operators to refine searches:
@@ -30,6 +31,7 @@ Identify internal or staging pages inadvertently indexed by search engines.
 - Examples:
   - `site:targetdomain.com inurl:test`
   - `site:targetdomain.com inurl:staging`
+  - `site:targetdomain.com inurl:env | inurl:dev | inurl:staging | inurl:sandbox | inurl:debug | inurl:temp | inurl:internal | inurl:demo`
 
 ### 5. Look for Exposed Credentials or Code
 Search for possible credentials or code snippets accidentally published online:
