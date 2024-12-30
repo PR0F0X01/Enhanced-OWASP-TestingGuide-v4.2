@@ -18,6 +18,9 @@ Identify sensitive files or directories exposed to the public.
   - `.pdf`, `.docx`, `.xlsx`
   - `.bak`, `.sql`
   - `.env`, `.config`
+  - `.cnf`, `.local`
+  - `.htaccess`, `.htpasswd`
+  - `.svn`, `.swp`
   - `.cfm`, `.yaml`
   - `.jsp`, `.log`
   - `.asp`, `.php`
