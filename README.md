@@ -26,6 +26,7 @@ The repository is organized based on OWASP Testing Guide categories. Click on an
 | `10 WSTG-BUSLOGIC`          | Business logic security testing.                              | [View Files](./10%20WSTG-BUSLOGIC/)                                        |
 | `11 WSTG-CLIENT`            | Client-side security testing for browser-based vulnerabilities. | [View Files](./11%20WSTG-CLIENT/)                                          |
 | `12 WSTG-APIT`              | API testing for RESTful and GraphQL security vulnerabilities. | [View Files](./12%20WSTG-APIT/)                                            |
+| `13 Application-Function-Checklists`              | Secure testing of critical app functionalities systematically. | [View Files](./Application-Function-Checklists/)                                            |
 
 ---
 
