@@ -43,4 +43,6 @@ If there is no registration page but a password reset page exists, try adding an
 
 ### 13. SQL Injection in Name or Username
 Test for SQL Injection in the name or username fields, e.g., using payloads like `'; --` to check for errors and also test blind injection techniques.
----
+
+### 14. **Adding Name or Username as a Link in Invitations or Messages.**
+ When registering a new account, add the name or username as a link. If successful, when sending an invitation or message to another person, it will appear as a link in the invitation or message. If a text like "click here" or similar is added next to the link, this could allow an attacker to exploit the link to direct the victim to a malicious site or use it in a phishing attack.
